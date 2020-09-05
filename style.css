@@ -1,0 +1,19 @@
+
+.head{
+    display: flex;
+    flex-wrap: wrap;
+    background: darkkhaki;
+    justify-content: space-evenly;
+}
+
+.start{
+    background: papayawhip;
+    display: flex;
+    justify-content: center;
+}
+
+.about{
+    display: flex;
+    justify-content: flex-end;
+    background: papayawhip;
+}
